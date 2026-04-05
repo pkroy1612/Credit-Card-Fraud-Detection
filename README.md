@@ -1,11 +1,5 @@
 # 💳 Credit Card Fraud Detection using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3%2B-orange?logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-1.7%2B-red)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-
 > A production-ready machine learning pipeline that detects fraudulent credit card transactions on a **highly imbalanced dataset** (284,807 transactions, 0.17% fraud rate) — achieving **99.95% accuracy** with Random Forest and **35% reduction in false positives**.
 
 ---
@@ -290,24 +284,6 @@ Tests cover: data preprocessing, SMOTE balancing, model training & prediction, a
 
 ---
 
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
-
-```bash
-# Fork → Branch → Commit → PR
-git checkout -b feature/my-improvement
-git commit -m "Add: my improvement"
-git push origin feature/my-improvement
-```
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## Acknowledgements
 
